@@ -14,7 +14,7 @@ pnpm add sscm
 ## Usage
 ```ts
 import { Client, ParseMiddlewares, ParseClient } from "seyfert";
-import middlewares from "sslp"; // or export one by one, as you need.
+import middlewares from "sscm"; // or export one by one, as you need.
 
 const seyfertClient = new Client();
 
